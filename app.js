@@ -38,9 +38,3 @@ app.listen(8080, function (err) {
     }
     console.log('Todo app listening at port 8080');
 });
-
-function hello(){
-    alert("hello!");
-};
-
-hello();
